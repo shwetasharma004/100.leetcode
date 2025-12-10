@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cnshwetasharma/leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
