@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/cnshwetasharma/leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
