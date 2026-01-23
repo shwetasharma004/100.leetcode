@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cnshwetasharma/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
