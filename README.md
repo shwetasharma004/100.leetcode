@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/cnshwetasharma/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/cnshwetasharma/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cnshwetasharma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cnshwetasharma/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -47,5 +49,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
