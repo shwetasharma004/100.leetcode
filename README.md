@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/cnshwetasharma/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cnshwetasharma/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/cnshwetasharma/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/cnshwetasharma/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cnshwetasharma/leetcode/tree/master/0242-valid-anagram) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/cnshwetasharma/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
