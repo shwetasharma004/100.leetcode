@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/cnshwetasharma/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/cnshwetasharma/leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/cnshwetasharma/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cnshwetasharma/leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/cnshwetasharma/leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
