@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/cnshwetasharma/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/cnshwetasharma/leetcode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/cnshwetasharma/leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/cnshwetasharma/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/cnshwetasharma/leetcode/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/cnshwetasharma/leetcode/tree/master/2485-find-the-pivot-integer) |
