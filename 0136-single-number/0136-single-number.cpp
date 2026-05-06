@@ -1,12 +1,24 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
+    
+    // size of vector 
+     int n =  nums.size();
 
-        for(int i = 0; i < nums.size(); i++) {
-            ans = ans ^ nums[i];
+    // using nested loop 
+     for(int i=0; i<n; i++){
+
+        int count = 0;
+        for(int j=0; j<n; j++){
+            if(nums[i] == nums[j]){
+                count++;
+            }
         }
-
-        return ans;
+        // Here Checked condition 
+        if(count == 1){
+            return nums[i];
+        }   
+    }
+    return -1;
     }
 };
