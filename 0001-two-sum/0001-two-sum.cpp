@@ -1,20 +1,13 @@
 class Solution {
 public:
-    int reverse(int x) 
-    {
-        long long rev=0;
-
-        while(x!=0)
-        {
-            int digit=x%10;
-            rev=rev*10+digit;
-            x/=10;
+    vector<int> twoSum(vector<int>& nums, int target) {
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = i + 1; j < nums.size(); j++) {
+                if (nums[i] + nums[j] == target) {
+                    return {i, j};
+                }
+            }
         }
-        if(rev<INT_MIN||rev>INT_MAX)
-        {
-            return 0;
-        }
-        return (int)rev;
+        return {};
     }
-    
 };
