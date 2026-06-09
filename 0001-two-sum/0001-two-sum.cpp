@@ -1,20 +1,22 @@
 class Solution {
 public:
-    int reverse(int x) 
-    {
-        long long rev=0;
+    int maxArea(vector<int>& height) {
+        int n = height.size();
 
-        while(x!=0)
-        {
-            int digit=x%10;
-            rev=rev*10+digit;
-            x/=10;
+        int maxWater = 0;
+        int low = 0;
+        int high = n-1;
+
+        while(low < high){
+            int width = high-low;
+            int minHeight = min(height[low], height[high]);
+            maxWater = max(maxWater , width*minHeight);
+
+            if(height[low] < height[high])
+                low++;
+                else
+                high--;
         }
-        if(rev<INT_MIN||rev>INT_MAX)
-        {
-            return 0;
-        }
-        return (int)rev;
+        return maxWater;
     }
-    
 };
